@@ -61,7 +61,7 @@ make config
 
 I found a great article on PostFix configuration, you can make reference to if you are having problems
 
-[1]: https://opensource.com/article/18/8/postfix-open-source-mail-transfer-agent
+[Open Source] (https://opensource.com/article/18/8/postfix-open-source-mail-transfer-agent)
 
 ## Planned upgrades
 With time, I hope to add extra functionality. You can leave me a comment and I will answer it as soon as I see it.
